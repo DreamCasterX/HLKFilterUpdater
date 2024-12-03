@@ -1,4 +1,4 @@
-# One-click to download & update filers for Windows Hardware Lab Kit (HLK) testing
+# One-click to download & update filters for Windows Hardware Lab Kit (HLK) testing
 
 
 ### How To Use
