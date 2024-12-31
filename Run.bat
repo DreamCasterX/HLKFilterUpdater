@@ -1,6 +1,6 @@
 echo off
 CLS
-REM     **Created by MIKE LU on 2024.11.26**
+REM     **Created by MIKE LU**
 REM     DTM Filter Lookup: https://partner.microsoft.com/en-us/dashboard/hardware/dtmfilters
 ECHO.                                         
 ECHO       @       @  @   @   @@@    @      
